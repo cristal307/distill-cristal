@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Cristal Rivera",
+      "author": [],
+      "contents": "\r\nI am a data scientist enthusiast, and a very curios person. I like thinking that one simple act can change the world. My personal website is here where you can find more about my interests :)\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-13T13:26:02-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Posts",
+      "description": "\"Small Content for Bigger growth\"\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-13T13:26:04-06:00"
+    }
+  ],
+  "collections": []
+}
